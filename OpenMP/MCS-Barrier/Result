@@ -1,0 +1,88 @@
+2 threads
+1st
+Time spent in barrier by thread 0 is 0.000852
+Time spent in barrier by thread 1 is 0.000098
+
+2nd
+Time spent in barrier by thread 0 is 0.000601
+Time spent in barrier by thread 1 is 0.000346
+
+3rd
+Time spent in barrier by thread 0 is 0.000896
+Time spent in barrier by thread 1 is 0.000142
+
+
+4 threads
+1st
+Time spent in barrier by thread 0 is 0.003239
+Time spent in barrier by thread 2 is 0.002287
+Time spent in barrier by thread 3 is 0.000812
+Time spent in barrier by thread 1 is 0.001887
+
+2nd
+Time spent in barrier by thread 0 is 0.003442
+Time spent in barrier by thread 2 is 0.002057
+Time spent in barrier by thread 1 is 0.001757
+Time spent in barrier by thread 3 is 0.000467
+
+3rd
+Time spent in barrier by thread 0 is 0.004218
+Time spent in barrier by thread 1 is 0.004017
+Time spent in barrier by thread 2 is 0.002898
+Time spent in barrier by thread 3 is 0.000353
+
+6 threads
+1st
+Time spent in barrier by thread 1 is 0.005673
+Time spent in barrier by thread 5 is 0.003266
+Time spent in barrier by thread 4 is 0.004974
+Time spent in barrier by thread 3 is 0.004055
+Time spent in barrier by thread 2 is 0.004640
+Time spent in barrier by thread 0 is 0.006592
+
+2nd
+Time spent in barrier by thread 0 is 0.007956
+Time spent in barrier by thread 2 is 0.004180
+Time spent in barrier by thread 4 is 0.004248
+Time spent in barrier by thread 3 is 0.006989
+Time spent in barrier by thread 5 is 0.003214
+Time spent in barrier by thread 1 is 0.005344
+
+3rd
+Time spent in barrier by thread 2 is 0.005389
+Time spent in barrier by thread 0 is 0.006346
+Time spent in barrier by thread 5 is 0.004604
+Time spent in barrier by thread 4 is 0.002654
+Time spent in barrier by thread 1 is 0.005572
+Time spent in barrier by thread 3 is 0.003103
+
+8 threads
+1st
+Time spent in barrier by thread 2 is 0.007781
+Time spent in barrier by thread 6 is 0.005719
+Time spent in barrier by thread 0 is 0.010990
+Time spent in barrier by thread 5 is 0.007160
+Time spent in barrier by thread 1 is 0.009326
+Time spent in barrier by thread 4 is 0.009488
+Time spent in barrier by thread 3 is 0.008600
+Time spent in barrier by thread 7 is 0.008636
+
+2nd
+Time spent in barrier by thread 2 is 0.007927
+Time spent in barrier by thread 0 is 0.011883
+Time spent in barrier by thread 6 is 0.006512
+Time spent in barrier by thread 1 is 0.007764
+Time spent in barrier by thread 4 is 0.008279
+Time spent in barrier by thread 3 is 0.007230
+Time spent in barrier by thread 7 is 0.006465
+Time spent in barrier by thread 5 is 0.007116
+
+3rd
+Time spent in barrier by thread 6 is 0.019444
+Time spent in barrier by thread 0 is 0.010845
+Time spent in barrier by thread 4 is 0.008488
+Time spent in barrier by thread 2 is 0.021508
+Time spent in barrier by thread 3 is 0.019951
+Time spent in barrier by thread 7 is 0.005542
+Time spent in barrier by thread 5 is 0.007548
+Time spent in barrier by thread 1 is 0.008749

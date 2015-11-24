@@ -1,0 +1,178 @@
+2 threads
+
+2 Processor
+Average time taken by processor 0: 0.000021
+Average time taken by processor 1: 0.000023
+
+Average time taken by processor 1: 0.000029
+Average time taken by processor 0: 0.000021
+
+Average time taken by processor 0: 0.000020
+Average time taken by processor 1: 0.000022
+
+6 Processor
+Average time taken by processor 3: 0.000102
+Average time taken by processor 4: 0.000082
+Average time taken by processor 5: 0.000096
+Average time taken by processor 0: 0.000098
+Average time taken by processor 1: 0.000074
+Average time taken by processor 2: 0.000052
+
+Average time taken by processor 3: 0.000042
+Average time taken by processor 4: 0.000046
+Average time taken by processor 0: 0.000055
+Average time taken by processor 5: 0.000025
+Average time taken by processor 1: 0.000028
+Average time taken by processor 2: 0.000035
+
+Average time taken by processor 4: 0.000134
+Average time taken by processor 1: 0.000136
+Average time taken by processor 0: 0.000038
+Average time taken by processor 2: 0.000161
+Average time taken by processor 5: 0.000150
+Average time taken by processor 3: 0.000182
+
+8 Processor
+Average time taken by processor 3: 0.000195
+Average time taken by processor 4: 0.000186
+Average time taken by processor 5: 0.000156
+Average time taken by processor 6: 0.000173
+Average time taken by processor 7: 0.000170
+Average time taken by processor 0: 0.000189
+Average time taken by processor 2: 0.000176
+Average time taken by processor 1: 0.000180
+
+Average time taken by processor 6: 0.002113
+Average time taken by processor 0: 0.001910
+Average time taken by processor 2: 0.002017
+Average time taken by processor 3: 0.001958
+Average time taken by processor 4: 0.002116
+Average time taken by processor 5: 0.002033
+Average time taken by processor 7: 0.001694
+Average time taken by processor 1: 0.001908
+
+Average time taken by processor 1: 0.000471
+Average time taken by processor 2: 0.000400
+Average time taken by processor 3: 0.000472
+Average time taken by processor 4: 0.000469
+Average time taken by processor 7: 0.000498
+Average time taken by processor 6: 0.000483
+Average time taken by processor 0: 0.000430
+Average time taken by processor 5: 0.000460
+
+6 threads
+2 Processor
+Average time taken by processor 1: 0.000289
+Average time taken by processor 0: 0.000495
+
+Average time taken by processor 1: 0.000373
+Average time taken by processor 0: 0.000440
+
+Average time taken by processor 1: 0.000789
+Average time taken by processor 0: 0.000723
+
+6 Processor
+Average time taken by processor 1: 0.071438
+Average time taken by processor 2: 0.075873
+Average time taken by processor 4: 0.076560
+Average time taken by processor 5: 0.077385
+Average time taken by processor 0: 0.077952
+Average time taken by processor 3: 0.077770
+
+Average time taken by processor 1: 0.078612
+Average time taken by processor 4: 0.082012
+Average time taken by processor 5: 0.083041
+Average time taken by processor 0: 0.085658
+Average time taken by processor 3: 0.073617
+Average time taken by processor 2: 0.084399
+
+Average time taken by processor 0: 0.078522
+Average time taken by processor 3: 0.075162
+Average time taken by processor 1: 0.076457
+Average time taken by processor 2: 0.082182
+Average time taken by processor 4: 0.070441
+Average time taken by processor 5: 0.073990
+
+8 Processor
+Average time taken by processor 4: 0.138130
+Average time taken by processor 6: 0.126584
+Average time taken by processor 1: 0.138751
+Average time taken by processor 2: 0.138504
+Average time taken by processor 0: 0.134980
+Average time taken by processor 5: 0.136446
+Average time taken by processor 7: 0.140640
+Average time taken by processor 3: 0.135069
+
+Average time taken by processor 1: 0.130396
+Average time taken by processor 4: 0.132061
+Average time taken by processor 6: 0.131991
+Average time taken by processor 5: 0.133976
+Average time taken by processor 2: 0.135228
+Average time taken by processor 0: 0.133898
+Average time taken by processor 7: 0.139993
+Average time taken by processor 3: 0.132199
+
+Average time taken by processor 0: 0.137226
+Average time taken by processor 1: 0.130722
+Average time taken by processor 2: 0.137082
+Average time taken by processor 5: 0.138938
+Average time taken by processor 3: 0.142194
+Average time taken by processor 4: 0.136302
+Average time taken by processor 6: 0.138642
+Average time taken by processor 7: 0.138555
+
+10 threads
+2 Processor
+Average time taken by processor 0: 0.000921
+Average time taken by processor 1: 0.000866
+
+Average time taken by processor 1: 0.000880
+Average time taken by processor 0: 0.001070
+
+Average time taken by processor 0: 0.000925
+Average time taken by processor 1: 0.001304
+
+6 Processor
+Average time taken by processor 1: 0.260142
+Average time taken by processor 4: 0.273354
+Average time taken by processor 3: 0.264836
+Average time taken by processor 5: 0.270304
+Average time taken by processor 2: 0.277512
+Average time taken by processor 0: 0.269937
+
+Average time taken by processor 4: 0.268189
+Average time taken by processor 3: 0.275245
+Average time taken by processor 1: 0.262839
+Average time taken by processor 0: 0.285058
+Average time taken by processor 5: 0.277274
+Average time taken by processor 2: 0.274579
+
+Average time taken by processor 0: 0.283661
+Average time taken by processor 2: 0.282720
+Average time taken by processor 4: 0.272243
+Average time taken by processor 5: 0.282124
+Average time taken by processor 3: 0.264158
+Average time taken by processor 1: 0.275352
+
+8 Processor
+Average time taken by processor 4: 0.498328
+Average time taken by processor 1: 0.486757
+Average time taken by processor 5: 0.478134
+Average time taken by processor 7: 0.499479
+Average time taken by processor 0: 0.497876
+Average time taken by processor 2: 0.492923
+Average time taken by processor 3: 0.493443
+Average time taken by processor 6: 0.495993
+
+Average time taken by processor 2: 0.521633
+Average time taken by processor 1: 0.542055
+Average time taken by processor 0: 0.533305
+Average time taken by processor 3: 0.542482
+Average time taken by processor 4: 0.539856
+Average time taken by processor 6: 0.532634
+Average time taken by processor 5: 0.526258
+Average time taken by processor 7: 0.529162
+
+
+
+
