@@ -1,0 +1,169 @@
+2 Process
+1st
+The time spent by processor 0 at barrier at is 0.001780
+The time spent by processor 1 at barrier at is 0.020250
+
+2nd
+The time spent by processor 0 at barrier at is 0.001406
+The time spent by processor 1 at barrier at is 0.011287
+
+3rd
+The time spent by processor 0 at barrier at is 0.003756
+The time spent by processor 1 at barrier at is 0.006383
+
+
+4 Process
+1st
+The time spent by processor 0 at barrier at is 0.009978
+The time spent by processor 1 at barrier at is 0.047669
+The time spent by processor 2 at barrier at is 0.050701
+The time spent by processor 3 at barrier at is 0.045867
+
+2nd
+The time spent by processor 0 at barrier at is 0.005647
+The time spent by processor 1 at barrier at is 0.024271
+The time spent by processor 2 at barrier at is 0.027959
+The time spent by processor 3 at barrier at is 0.027697
+
+3rd
+The time spent by processor 0 at barrier at is 0.006336
+The time spent by processor 1 at barrier at is 0.018275
+The time spent by processor 2 at barrier at is 0.025179
+The time spent by processor 3 at barrier at is 0.024002
+
+6 Process
+1st
+The time spent by processor 0 at barrier at is 0.013240
+The time spent by processor 1 at barrier at is 0.032711
+The time spent by processor 2 at barrier at is 0.039103
+The time spent by processor 3 at barrier at is 0.067196
+The time spent by processor 4 at barrier at is 0.067259
+The time spent by processor 5 at barrier at is 0.060501
+
+2nd
+The time spent by processor 0 at barrier at is 0.040026
+The time spent by processor 1 at barrier at is 0.040222
+The time spent by processor 2 at barrier at is 0.039839
+The time spent by processor 3 at barrier at is 0.037233
+The time spent by processor 4 at barrier at is 0.029960
+The time spent by processor 5 at barrier at is 0.039892
+
+3rd
+The time spent by processor 0 at barrier at is 0.009012
+The time spent by processor 1 at barrier at is 0.009724
+The time spent by processor 2 at barrier at is 0.008871
+The time spent by processor 3 at barrier at is 0.009037
+The time spent by processor 4 at barrier at is 0.009926
+The time spent by processor 5 at barrier at is 0.004697
+
+8 Process
+1st
+The time spent by processor 0 at barrier at is 0.010367
+The time spent by processor 1 at barrier at is 0.010707
+The time spent by processor 2 at barrier at is 0.010922
+The time spent by processor 3 at barrier at is 0.010292
+The time spent by processor 4 at barrier at is 0.010966
+The time spent by processor 5 at barrier at is 0.010433
+The time spent by processor 6 at barrier at is 0.010570
+The time spent by processor 7 at barrier at is 0.007202
+
+2nd
+The time spent by processor 0 at barrier at is 0.006988
+The time spent by processor 1 at barrier at is 0.006998
+The time spent by processor 2 at barrier at is 0.006816
+The time spent by processor 3 at barrier at is 0.005502
+The time spent by processor 4 at barrier at is 0.005881
+The time spent by processor 5 at barrier at is 0.006998
+The time spent by processor 6 at barrier at is 0.006961
+The time spent by processor 7 at barrier at is 0.006917
+
+3rd
+The time spent by processor 0 at barrier at is 0.009090
+The time spent by processor 1 at barrier at is 0.008964
+The time spent by processor 2 at barrier at is 0.008883
+The time spent by processor 3 at barrier at is 0.009109
+The time spent by processor 4 at barrier at is 0.008696
+The time spent by processor 5 at barrier at is 0.007940
+The time spent by processor 6 at barrier at is 0.005471
+The time spent by processor 7 at barrier at is 0.009141
+
+
+10 Process
+1st
+The time spent by processor 0 at barrier at is 0.011001
+The time spent by processor 1 at barrier at is 0.010852
+The time spent by processor 2 at barrier at is 0.010925
+The time spent by processor 3 at barrier at is 0.010655
+The time spent by processor 4 at barrier at is 0.010935
+The time spent by processor 5 at barrier at is 0.010702
+The time spent by processor 6 at barrier at is 0.011228
+The time spent by processor 7 at barrier at is 0.007716
+The time spent by processor 8 at barrier at is 0.010376
+The time spent by processor 9 at barrier at is 0.011048
+
+2nd
+The time spent by processor 0 at barrier at is 0.013431
+The time spent by processor 1 at barrier at is 0.007748
+The time spent by processor 2 at barrier at is 0.013466
+The time spent by processor 3 at barrier at is 0.013147
+The time spent by processor 4 at barrier at is 0.013584
+The time spent by processor 5 at barrier at is 0.013282
+The time spent by processor 6 at barrier at is 0.012808
+The time spent by processor 7 at barrier at is 0.013006
+The time spent by processor 8 at barrier at is 0.012662
+The time spent by processor 9 at barrier at is 0.013558
+
+3rd
+The time spent by processor 0 at barrier at is 0.009180
+The time spent by processor 1 at barrier at is 0.010048
+The time spent by processor 2 at barrier at is 0.009078
+The time spent by processor 3 at barrier at is 0.008954
+The time spent by processor 4 at barrier at is 0.008931
+The time spent by processor 5 at barrier at is 0.009793
+The time spent by processor 6 at barrier at is 0.008955
+The time spent by processor 7 at barrier at is 0.009116
+The time spent by processor 8 at barrier at is 0.008955
+The time spent by processor 9 at barrier at is 0.009784
+
+12 Process
+1st
+The time spent by processor 0 at barrier at is 0.009439
+The time spent by processor 1 at barrier at is 0.010048
+The time spent by processor 2 at barrier at is 0.010907
+The time spent by processor 3 at barrier at is 0.011014
+The time spent by processor 4 at barrier at is 0.010059
+The time spent by processor 5 at barrier at is 0.010237
+The time spent by processor 6 at barrier at is 0.010075
+The time spent by processor 7 at barrier at is 0.010648
+The time spent by processor 8 at barrier at is 0.010190
+The time spent by processor 9 at barrier at is 0.010196
+The time spent by processor 10 at barrier at is 0.009930
+The time spent by processor 11 at barrier at is 0.010936
+
+2nd
+The time spent by processor 0 at barrier at is 0.013273
+The time spent by processor 1 at barrier at is 0.013361
+The time spent by processor 2 at barrier at is 0.013092
+The time spent by processor 3 at barrier at is 0.013301
+The time spent by processor 4 at barrier at is 0.012926
+The time spent by processor 5 at barrier at is 0.012397
+The time spent by processor 6 at barrier at is 0.012502
+The time spent by processor 7 at barrier at is 0.012783
+The time spent by processor 8 at barrier at is 0.007533
+The time spent by processor 9 at barrier at is 0.013414
+The time spent by processor 10 at barrier at is 0.013092
+The time spent by processor 11 at barrier at is 0.012400
+
+3rd
+The time spent by processor 0 at barrier at is 0.010114
+The time spent by processor 1 at barrier at is 0.010019
+The time spent by processor 2 at barrier at is 0.010602
+The time spent by processor 3 at barrier at is 0.010473
+The time spent by processor 4 at barrier at is 0.010578
+The time spent by processor 5 at barrier at is 0.010670
+The time spent by processor 6 at barrier at is 0.011155
+The time spent by processor 7 at barrier at is 0.010771
+The time spent by processor 8 at barrier at is 0.010696
+The time spent by processor 9 at barrier at is 0.010580
+The time spent by processor 10 at barrier at is 0.010533
+The time spent by processor 11 at barrier at is 0.010625

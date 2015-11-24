@@ -1,0 +1,19 @@
+OMPFLAGS = -fopenmp
+OMPLIBS = -lgomp
+
+CC = gcc
+CPPFLAGS = -g -Wall
+LDFLAGS = -g -Wall
+LDLIBS = $(OMPLIBS)
+
+MPICC = mpicc
+MPICH = /usr/lib64/openmpi/1.4-gcc
+CFLAGS = -I$(MPICH)/include
+
+all: hello_world
+
+hello_world:
+	mpicc -o hello_world hello_world.c -lm
+
+clean:
+	rm -f *.o hello_world
