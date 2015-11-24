@@ -1,0 +1,161 @@
+Tournament Barrier Results:
+
+2 processes:
+Average time taken: 0.014 by pid: 0
+Average time taken: 0.014 by pid: 1
+
+Average time taken: 0.015 by pid: 1
+Average time taken: 0.015 by pid: 0
+
+Average time taken: 0.016 by pid: 0
+Average time taken: 0.017 by pid: 1
+
+
+4 processes:
+
+Average time taken: 0.032 by pid: 2
+Average time taken: 0.030 by pid: 0
+Average time taken: 0.031 by pid: 1
+Average time taken: 0.031 by pid: 3
+
+Average time taken: 0.032 by pid: 3
+Average time taken: 0.031 by pid: 2
+Average time taken: 0.029 by pid: 0
+Average time taken: 0.029 by pid: 1
+
+Average time taken: 0.029 by pid: 3
+Average time taken: 0.028 by pid: 0
+Average time taken: 0.028 by pid: 2
+Average time taken: 0.027 by pid: 1
+
+
+6 processes:
+
+Average time taken: 0.031 by pid: 2
+Average time taken: 0.030 by pid: 4
+Average time taken: 0.029 by pid: 0
+Average time taken: 0.031 by pid: 5
+Average time taken: 0.032 by pid: 3
+Average time taken: 0.031 by pid: 1
+
+Average time taken: 0.038 by pid: 4
+Average time taken: 0.036 by pid: 3
+Average time taken: 0.038 by pid: 2
+Average time taken: 0.038 by pid: 1
+Average time taken: 0.038 by pid: 0
+Average time taken: 0.037 by pid: 5
+
+Average time taken: 0.035 by pid: 1
+Average time taken: 0.036 by pid: 0
+Average time taken: 0.036 by pid: 2
+Average time taken: 0.034 by pid: 3
+Average time taken: 0.034 by pid: 4
+Average time taken: 0.032 by pid: 5
+
+
+8 processes:
+
+Average time taken: 0.051 by pid: 6
+Average time taken: 0.053 by pid: 1
+Average time taken: 0.055 by pid: 7
+Average time taken: 0.052 by pid: 0
+Average time taken: 0.054 by pid: 2
+Average time taken: 0.050 by pid: 4
+Average time taken: 0.055 by pid: 5
+Average time taken: 0.052 by pid: 3
+
+Average time taken: 0.062 by pid: 2
+Average time taken: 0.072 by pid: 3
+Average time taken: 0.070 by pid: 6
+Average time taken: 0.072 by pid: 7
+Average time taken: 0.072 by pid: 5
+Average time taken: 0.071 by pid: 0
+Average time taken: 0.072 by pid: 1
+Average time taken: 0.064 by pid: 4
+
+Average time taken: 0.053 by pid: 2
+Average time taken: 0.053 by pid: 7
+Average time taken: 0.050 by pid: 0
+Average time taken: 0.053 by pid: 1
+Average time taken: 0.052 by pid: 4
+Average time taken: 0.051 by pid: 5
+Average time taken: 0.052 by pid: 3
+Average time taken: 0.050 by pid: 6
+
+
+10 processes:
+
+Average time taken: 0.062 by pid: 5
+Average time taken: 0.062 by pid: 6
+Average time taken: 0.062 by pid: 3
+Average time taken: 0.062 by pid: 8
+Average time taken: 0.061 by pid: 9
+Average time taken: 0.062 by pid: 0
+Average time taken: 0.063 by pid: 2
+Average time taken: 0.062 by pid: 1
+Average time taken: 0.061 by pid: 4
+Average time taken: 0.060 by pid: 7
+
+Average time taken: 0.054 by pid: 3
+Average time taken: 0.054 by pid: 2
+Average time taken: 0.052 by pid: 5
+Average time taken: 0.055 by pid: 8
+Average time taken: 0.052 by pid: 9
+Average time taken: 0.055 by pid: 4
+Average time taken: 0.050 by pid: 1
+Average time taken: 0.052 by pid: 6
+Average time taken: 0.055 by pid: 0
+Average time taken: 0.055 by pid: 7
+
+Average time taken: 0.059 by pid: 8
+Average time taken: 0.056 by pid: 9
+Average time taken: 0.061 by pid: 6
+Average time taken: 0.060 by pid: 4
+Average time taken: 0.060 by pid: 2
+Average time taken: 0.058 by pid: 0
+Average time taken: 0.062 by pid: 7
+Average time taken: 0.062 by pid: 5
+Average time taken: 0.060 by pid: 3
+Average time taken: 0.062 by pid: 1
+
+
+12 processes:
+
+Average time taken: 0.067 by pid: 3
+Average time taken: 0.066 by pid: 11
+Average time taken: 0.066 by pid: 10
+Average time taken: 0.066 by pid: 2
+Average time taken: 0.066 by pid: 4
+Average time taken: 0.066 by pid: 6
+Average time taken: 0.067 by pid: 5
+Average time taken: 0.065 by pid: 0
+Average time taken: 0.066 by pid: 7
+Average time taken: 0.066 by pid: 9
+Average time taken: 0.065 by pid: 8
+Average time taken: 0.067 by pid: 1
+
+Average time taken: 0.067 by pid: 10
+Average time taken: 0.066 by pid: 1
+Average time taken: 0.067 by pid: 11
+Average time taken: 0.067 by pid: 2
+Average time taken: 0.066 by pid: 0
+Average time taken: 0.067 by pid: 8
+Average time taken: 0.067 by pid: 4
+Average time taken: 0.068 by pid: 6
+Average time taken: 0.062 by pid: 9
+Average time taken: 0.067 by pid: 7
+Average time taken: 0.067 by pid: 5
+Average time taken: 0.068 by pid: 3
+
+Average time taken: 0.060 by pid: 4
+Average time taken: 0.061 by pid: 6
+Average time taken: 0.059 by pid: 5
+Average time taken: 0.060 by pid: 11
+Average time taken: 0.062 by pid: 2
+Average time taken: 0.061 by pid: 0
+Average time taken: 0.061 by pid: 1
+Average time taken: 0.060 by pid: 10
+Average time taken: 0.060 by pid: 8
+Average time taken: 0.061 by pid: 9
+Average time taken: 0.061 by pid: 3
+Average time taken: 0.061 by pid: 7
